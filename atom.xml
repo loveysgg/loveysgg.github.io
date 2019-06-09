@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loveysgg.github.io/</id>
     <title>浪里个男</title>
-    <updated>2019-06-09T01:48:27.437Z</updated>
+    <updated>2019-06-09T01:50:29.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loveysgg.github.io/"/>
     <link rel="self" href="https://loveysgg.github.io//atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://loveysgg.github.io//images/avatar.png</logo>
     <icon>https://loveysgg.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 浪里个男</rights>
+    <entry>
+        <title type="html"><![CDATA[春晚红包宕机史，中国互联网技术进步史。腾讯、阿里宕机3年，2019年为何百度挺住了？]]></title>
+        <id>https://loveysgg.github.io//post/cwhb</id>
+        <link href="https://loveysgg.github.io//post/cwhb">
+        </link>
+        <updated>2019-02-05T01:49:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用技术手段通俗告诉你，怎么更快抢到红包]]></title>
+        <id>https://loveysgg.github.io//post/wxhb</id>
+        <link href="https://loveysgg.github.io//post/wxhb">
+        </link>
+        <updated>2019-02-04T01:49:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[燃点，一部过于真实的纪录片电影。经纬影业的漫威系列创业电影。]]></title>
+        <id>https://loveysgg.github.io//post/rd</id>
+        <link href="https://loveysgg.github.io//post/rd">
+        </link>
+        <updated>2019-01-12T01:48:28.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微信7.0，我想和你聊聊]]></title>
         <id>https://loveysgg.github.io//post/wx70</id>
@@ -58,12 +79,5 @@
         <link href="https://loveysgg.github.io//post/byxfl">
         </link>
         <updated>2016-04-20T01:42:36.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐三部电影]]></title>
-        <id>https://loveysgg.github.io//post/sbdy</id>
-        <link href="https://loveysgg.github.io//post/sbdy">
-        </link>
-        <updated>2016-01-08T01:40:46.000Z</updated>
     </entry>
 </feed>
