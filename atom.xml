@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://loveysgg.github.io/</id>
+    <id>http://eszhishi.cn</id>
     <title>浪里个男</title>
-    <updated>2019-06-11T14:00:20.689Z</updated>
+    <updated>2019-06-12T09:55:16.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://loveysgg.github.io/"/>
-    <link rel="self" href="https://loveysgg.github.io//atom.xml"/>
-    <subtitle>你期待的，值得等待</subtitle>
-    <logo>https://loveysgg.github.io//images/avatar.png</logo>
-    <icon>https://loveysgg.github.io//favicon.ico</icon>
+    <link rel="alternate" href="http://eszhishi.cn"/>
+    <link rel="self" href="http://eszhishi.cn/atom.xml"/>
+    <subtitle>在这里，记录生活，表达态度，我无需刻意，你不必迎合。</subtitle>
+    <logo>http://eszhishi.cn/images/avatar.png</logo>
+    <icon>http://eszhishi.cn/favicon.ico</icon>
     <rights>All rights reserved 2019, 浪里个男</rights>
     <entry>
         <title type="html"><![CDATA[长沙到底有没有互联网？]]></title>
-        <id>https://loveysgg.github.io//post/cshlw</id>
-        <link href="https://loveysgg.github.io//post/cshlw">
+        <id>http://eszhishi.cn/post/cshlw</id>
+        <link href="http://eszhishi.cn/post/cshlw">
         </link>
         <updated>2019-06-11T13:58:41.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vlog04：『小二面店』打卡]]></title>
-        <id>https://loveysgg.github.io//post/blog04</id>
-        <link href="https://loveysgg.github.io//post/blog04">
+        <id>http://eszhishi.cn/post/blog04</id>
+        <link href="http://eszhishi.cn/post/blog04">
         </link>
         <updated>2019-05-27T01:55:02.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[电脑闲置时，贡献些运算能力给科学家们吧：BOINC]]></title>
-        <id>https://loveysgg.github.io//post/boinc</id>
-        <link href="https://loveysgg.github.io//post/boinc">
+        <id>http://eszhishi.cn/post/boinc</id>
+        <link href="http://eszhishi.cn/post/boinc">
         </link>
         <updated>2019-04-27T01:54:29.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[我看都挺好，强行洗白的结局真烂]]></title>
-        <id>https://loveysgg.github.io//post/dth</id>
-        <link href="https://loveysgg.github.io//post/dth">
+        <id>http://eszhishi.cn/post/dth</id>
+        <link href="http://eszhishi.cn/post/dth">
         </link>
         <updated>2019-03-29T01:53:53.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vlog03：开福寺祈福]]></title>
-        <id>https://loveysgg.github.io//post/vlog03</id>
-        <link href="https://loveysgg.github.io//post/vlog03">
+        <id>http://eszhishi.cn/post/vlog03</id>
+        <link href="http://eszhishi.cn/post/vlog03">
         </link>
         <updated>2019-03-26T01:53:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vlog02：视频日记。长沙星沙。]]></title>
-        <id>https://loveysgg.github.io//post/vlog02</id>
-        <link href="https://loveysgg.github.io//post/vlog02">
+        <id>http://eszhishi.cn/post/vlog02</id>
+        <link href="http://eszhishi.cn/post/vlog02">
         </link>
         <updated>2019-03-17T01:52:33.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[你无法想象当代年轻人有多害怕接电话？]]></title>
-        <id>https://loveysgg.github.io//post/nqrhpdh</id>
-        <link href="https://loveysgg.github.io//post/nqrhpdh">
+        <id>http://eszhishi.cn/post/nqrhpdh</id>
+        <link href="http://eszhishi.cn/post/nqrhpdh">
         </link>
         <updated>2019-03-11T01:51:55.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[阿里宕一宕，整个互联网抖三抖]]></title>
-        <id>https://loveysgg.github.io//post/alydj</id>
-        <link href="https://loveysgg.github.io//post/alydj">
+        <id>http://eszhishi.cn/post/alydj</id>
+        <link href="http://eszhishi.cn/post/alydj">
         </link>
         <updated>2019-03-07T01:51:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vlog01：仅此纪念消失许久太阳的长沙。]]></title>
-        <id>https://loveysgg.github.io//post/vlog01</id>
-        <link href="https://loveysgg.github.io//post/vlog01">
+        <id>http://eszhishi.cn/post/vlog01</id>
+        <link href="http://eszhishi.cn/post/vlog01">
         </link>
         <updated>2019-03-03T01:50:45.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[春晚红包宕机史，中国互联网技术进步史。腾讯、阿里宕机3年，2019年为何百度挺住了？]]></title>
-        <id>https://loveysgg.github.io//post/cwhb</id>
-        <link href="https://loveysgg.github.io//post/cwhb">
+        <id>http://eszhishi.cn/post/cwhb</id>
+        <link href="http://eszhishi.cn/post/cwhb">
         </link>
         <updated>2019-02-05T01:49:57.000Z</updated>
     </entry>
